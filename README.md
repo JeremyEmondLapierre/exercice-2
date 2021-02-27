@@ -1,1 +1,1 @@
-https://jeremyemondlapierre.github.io/labo-3/
+https://jeremyemondlapierre.github.io/exercice-2/
